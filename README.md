@@ -1,6 +1,6 @@
-# Ember-project
+# Fichiers sources pour l'article [Présentation de Ember.JS](https://www.supinfo.com/articles/single/3515-presentation-emberjs)
 
-##Fichiers sources pour l'article présentation EmberJS
+# Ember-project
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
